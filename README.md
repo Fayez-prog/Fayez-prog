@@ -3,7 +3,7 @@
 <div align="center">
 ### 🏗️ Software Engineer | QA & Development  <br>
 📍 Sfax, Tunisia | 📧 feyezsamet@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/fayez-samet-613185174/) | >br> [GitHub](https://github.com/Fayez-prog)
+🔗 [LinkedIn](https://www.linkedin.com/in/fayez-samet-613185174/) | <br> [GitHub](https://github.com/Fayez-prog)
 </div>
 
 ---
