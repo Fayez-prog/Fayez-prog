@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Fayez Samet
 
+<div align="center">
 ### 🏗️ Software Engineer | QA & Development  
 📍 Sfax, Tunisia | 📧 feyezsamet@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/fayez-samet-613185174/) | [GitHub](https://github.com/Fayez-prog)
+</div>
 
 ---
 
@@ -64,11 +66,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-🔹 [Project 1](link) - Short description  
-🔹 [Project 2](link) - Short description  
-🔹 [Project 3](link) - Short description  
-
 📂 [View All Repositories →](https://github.com/Fayez-prog?tab=repositories)
 
 ---
