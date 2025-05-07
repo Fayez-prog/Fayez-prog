@@ -13,7 +13,6 @@
 <div align="center">
 
 ![Fayez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fayez-prog&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&line_height=24&hide=issues)
-![GitHub Streak](https://streak-stats.demolab.com?user=Fayez-prog&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayez-prog&layout=compact&theme=radical&hide=html,css,scss&langs_count=6)
 ![Language Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fayez-prog&theme=radical)
