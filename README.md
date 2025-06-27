@@ -50,14 +50,17 @@
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
 </div>
 
-### 🗄️ Databases & Servers
+### 🗄️ Databases & ORMs
 <div>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma">
   <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white" alt="XAMPP">
   <img src="https://img.shields.io/badge/-Laragon-0D83C8?logo=laragon&logoColor=white" alt="Laragon">
 </div>
