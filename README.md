@@ -21,16 +21,13 @@
 
 ---
 
-## 🛠 Technical Stack
+# Technical Stack
 
 ### 🔍 QA Engineering
 <div>
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/-Katalon-00A2D6?logo=katalon&logoColor=white" alt="Katalon">
   <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/-Xray-00A2D6?logo=xray&logoColor=white" alt="Xray">
-  <img src="https://img.shields.io/badge/-MantisHub-0052CC?logo=bitbucket&logoColor=white" alt="MantisHub">
-  <img src="https://img.shields.io/badge/-ISTQB-291149?logo=istqb&logoColor=white" alt="ISTQB">
 </div>
 
 ### 💻 Programming Languages
