@@ -33,6 +33,13 @@
   <img src="https://img.shields.io/badge/-ISTQB-291149?logo=istqb&logoColor=white" alt="ISTQB">
 </div>
 
+### 🤖 AI & LLM Tools
+<div>
+  <img src="https://img.shields.io/badge/-Ollama-7C3AED?logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/-Gemini_API-4285F4?logo=google&logoColor=white" alt="Gemini API">
+  <img src="https://img.shields.io/badge/-LangChain-FF6B4A?logo=langchain&logoColor=white" alt="LangChain">
+</div>
+
 ### 💻 Programming Languages
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
@@ -53,6 +60,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white" alt="Cloudinary">
 </div>
 
 ### 🗄️ Databases & ORMs
